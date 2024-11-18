@@ -15,7 +15,7 @@ La página consta de 5 secciones;
 
 📱 Contacto 
 
-:camera_flash: Jugadores 
+:camera_flash: Jugadores
 
 En la que cada participante del grupo desarrolla su parte en un html y un css compartiendo los rasgos generales de estos respetando una serie de requisitos;
 
